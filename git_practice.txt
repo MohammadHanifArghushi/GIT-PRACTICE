@@ -1,5 +1,7 @@
+brought changes to the first line of the code to check stash command 
 <<<<<<< Updated upstream
 some very important notes 
+
 =======
 As per exercises i am writing some text to the file to see 
 what will be written in the git status command after running it
