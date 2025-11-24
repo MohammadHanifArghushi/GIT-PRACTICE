@@ -1,0 +1,60 @@
+Product ID, Name, Category, Price (USD), Stock Quantity, Description
+P001, Cosmic Travel Mug, Drinkware, 19.99, 150, Insulated mug featuring an abstract nebula print.
+P002, Nano-Knit Socks (L), Apparel, 12.50, 320, Ultra-soft, breathable socks made with futuristic fiber.
+P003, Silent Keyboard, Peripherals, 89.99, 85, Mechanical keyboard optimized for silent operation.
+P004, Reusable Plasma Filter, Home Goods, 45.00, 25, Replacement filter for the Stellar Air Purifier (Model 7).
+P005, Digital Notebook, Stationery, 35.75, 110, Compact notebook with infinite digital page capacity.
+P006, Gravity-Defying Yo-Yo, Toys, 29.99, 50, A specialized yo-yo that maintains a perfect spin indefinitely.
+Product ID, Name, Category, Price (USD), Stock Quantity, Description
+P001, Cosmic Travel Mug, Drinkware, 19.99, 150, Insulated mug featuring an abstract nebula print.
+P002, Nano-Knit Socks (L), Apparel, 12.50, 320, Ultra-soft, breathable socks made with futuristic fiber.
+P003, Silent Keyboard, Peripherals, 89.99, 85, Mechanical keyboard optimized for silent operation.
+P004, Reusable Plasma Filter, Home Goods, 45.00, 25, Replacement filter for the Stellar Air Purifier (Model 7).
+P005, Digital Notebook, Stationery, 35.75, 110, Compact notebook with infinite digital page capacity.
+P006, Gravity-Defying Yo-Yo, Toys, 29.99, 50, A specialized yo-yo that maintains a perfect spin indefinitely.
+Product ID, Name, Category, Price (USD), Stock Quantity, Description
+P001, Cosmic Travel Mug, Drinkware, 19.99, 150, Insulated mug featuring an abstract nebula print.
+P002, Nano-Knit Socks (L), Apparel, 12.50, 320, Ultra-soft, breathable socks made with futuristic fiber.
+P003, Silent Keyboard, Peripherals, 89.99, 85, Mechanical keyboard optimized for silent operation.
+P004, Reusable Plasma Filter, Home Goods, 45.00, 25, Replacement filter for the Stellar Air Purifier (Model 7).
+P005, Digital Notebook, Stationery, 35.75, 110, Compact notebook with infinite digital page capacity.
+P006, Gravity-Defying Yo-Yo, Toys, 29.99, 50, A specialized yo-yo that maintains a perfect spin indefinitely.
+Product ID, Name, Category, Price (USD), Stock Quantity, Description
+P001, Cosmic Travel Mug, Drinkware, 19.99, 150, Insulated mug featuring an abstract nebula print.
+P002, Nano-Knit Socks (L), Apparel, 12.50, 320, Ultra-soft, breathable socks made with futuristic fiber.
+P003, Silent Keyboard, Peripherals, 89.99, 85, Mechanical keyboard optimized for silent operation.
+P004, Reusable Plasma Filter, Home Goods, 45.00, 25, Replacement filter for the Stellar Air Purifier (Model 7).
+P005, Digital Notebook, Stationery, 35.75, 110, Compact notebook with infinite digital page capacity.
+P006, Gravity-Defying Yo-Yo, Toys, 29.99, 50, A specialized yo-yo that maintains a perfect spin indefinitely.
+Product ID, Name, Category, Price (USD), Stock Quantity, Description
+P001, Cosmic Travel Mug, Drinkware, 19.99, 150, Insulated mug featuring an abstract nebula print.
+P002, Nano-Knit Socks (L), Apparel, 12.50, 320, Ultra-soft, breathable socks made with futuristic fiber.
+P003, Silent Keyboard, Peripherals, 89.99, 85, Mechanical keyboard optimized for silent operation.
+P004, Reusable Plasma Filter, Home Goods, 45.00, 25, Replacement filter for the Stellar Air Purifier (Model 7).
+P005, Digital Notebook, Stationery, 35.75, 110, Compact notebook with infinite digital page capacity.
+P006, Gravity-Defying Yo-Yo, Toys, 29.99, 50, A specialized yo-yo that maintains a perfect spin indefinitely.
+Product ID, Name, Category, Price (USD), Stock Quantity, Description
+P001, Cosmic Travel Mug, Drinkware, 19.99, 150, Insulated mug featuring an abstract nebula print.
+P002, Nano-Knit Socks (L), Apparel, 12.50, 320, Ultra-soft, breathable socks made with futuristic fiber.
+P003, Silent Keyboard, Peripherals, 89.99, 85, Mechanical keyboard optimized for silent operation.
+P004, Reusable Plasma Filter, Home Goods, 45.00, 25, Replacement filter for the Stellar Air Purifier (Model 7).
+P005, Digital Notebook, Stationery, 35.75, 110, Compact notebook with infinite digital page capacity.
+P006, Gravity-Defying Yo-Yo, Toys, 29.99, 50, A specialized yo-yo that maintains a perfect spin indefinitely.
+Product ID, Name, Category, Price (USD), Stock Quantity, Description
+P001, Cosmic Travel Mug, Drinkware, 19.99, 150, Insulated mug featuring an abstract nebula print.
+P002, Nano-Knit Socks (L), Apparel, 12.50, 320, Ultra-soft, breathable socks made with futuristic fiber.
+P003, Silent Keyboard, Peripherals, 89.99, 85, Mechanical keyboard optimized for silent operation.
+P004, Reusable Plasma Filter, Home Goods, 45.00, 25, Replacement filter for the Stellar Air Purifier (Model 7).
+P005, Digital Notebook, Stationery, 35.75, 110, Compact notebook with infinite digital page capacity.
+P006, Gravity-Defying Yo-Yo, Toys, 29.99, 50, A specialized yo-yo that maintains a perfect spin indefinitely.
+Product ID, Name, Category, Price (USD), Stock Quantity, Description
+P001, Cosmic Travel Mug, Drinkware, 19.99, 150, Insulated mug featuring an abstract nebula print.
+P002, Nano-Knit Socks (L), Apparel, 12.50, 320, Ultra-soft, breathable socks made with futuristic fiber.
+P003, Silent Keyboard, Peripherals, 89.99, 85, Mechanical keyboard optimized for silent operation.
+P004, Reusable Plasma Filter, Home Goods, 45.00, 25, Replacement filter for the Stellar Air Purifier (Model 7).
+P005, Digital Notebook, Stationery, 35.75, 110, Compact notebook with infinite digital page capacity.
+P006, Gravity-Defying Yo-Yo, Toys, 29.99, 50, A specialized yo-yo that maintains a perfect spin indefinitely.
+
+--------
+add something new to this file:
+Add something new to the shopping list, and create another commit. Use the command git add -p.
